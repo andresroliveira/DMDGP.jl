@@ -1,0 +1,13 @@
+name = "DMDGP"
+uuid = "8e90d00a-cacf-488b-a693-8b0f2c7ef829"
+authors = ["Andrês R. Oliveira"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
